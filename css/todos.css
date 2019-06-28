@@ -22,7 +22,7 @@ h1 {
   font-weight: normal;
 }
 
-.fas {
+.fa-pencil-alt {
   float: right;
 }
 
@@ -36,7 +36,7 @@ input {
   border: 3px solid rgba(0, 0, 0, 0);
 }
 
-span {
+li span {
   background: #e74c3c;
   height: 40px;
   margin-right: 20px;

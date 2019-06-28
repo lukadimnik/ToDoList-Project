@@ -24,6 +24,6 @@ $("input[type='text']").keypress(function(event) {
   }
 });
 
-$(".fa-trash-alt").click(function() {
+$("#toggle-form").click(function() {
   $("input[type='text']").fadeToggle();
 });
